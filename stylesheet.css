@@ -1,0 +1,20 @@
+body {
+  font-size: 16px;
+  color: #fff;
+  background-color: #F2F2F2;
+ 
+}
+
+#header-nav {
+  background-color: #222222;
+  border-radius: 0;
+  border: 0;
+}
+
+
+#logo-img {
+  background: url('EtherKidsIcon2.png') no-repeat;
+  height: 100px;
+  width: 100px;
+  margin: 10px 15px 10px 0;
+}
